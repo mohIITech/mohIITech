@@ -12,7 +12,7 @@ My ❤️ beats for tech, and you'll often find me immersed in robotics and auto
 
 Technology is my playground, and I'm driven to leave a legacy in the world of tech.
 
-**What’s next?**
+**Let's create some 🪄***Magic***✨**
 
 Let’s create something awesome! If you’re into open-source, robotics, or AI-powered projects, we should definitely connect! 🚀
 
@@ -23,7 +23,7 @@ Email: b24ch1023@iitj.ac.in
 
 
 
-LinkedIn: www.linkedin.com/in/mohitdeharkar
+LinkedIn: [mohitdeharkar](www.linkedin.com/in/mohitdeharkar)
 <!---
 mohIITech/mohIITech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
