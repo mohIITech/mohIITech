@@ -21,7 +21,7 @@ Email: b24ch1023@iitj.ac.in
 
 
 
-LinkedIn: [mohitdeharkar](www.linkedin.com/in/mohitdeharkar)
+LinkedIn: [mohitdeharkar](http://www.linkedin.com/in/mohitdeharkar)
 <!---
 mohIITech/mohIITech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
